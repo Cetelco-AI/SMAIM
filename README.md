@@ -1,7 +1,7 @@
 # AI Social Media Manager 2.0
 
 ## **Project Description**
-AI Social Media Manager 2.0 (SMAIM) is a very new version of SMAIM, an application that leverages artificial intelligence to automate social media management for platforms such as Instagram, Facebook, and TikTok. This system allows users to schedule posts, generate trend-based content, and analyze profile performance efficiently. Beyond that, in this new advanced version was included adaptive memory handling and a huge spectrum of commands to improve AI's responsiveness and understanding allowing to include efficient AI instruction management and task execution for almost any service that can connect trough API, said that the interface can be used as a verstile bridge between users and AI agents/models where AI's can act as Personal assistents, accounting, sales agent and a wide options. We push the boundaries of AI uses.
+AI Social Media Manager 2.0 (SMAIM 2.0) is a very new version AGI based of SMAIM, an application that leverages artificial intelligence to automate social media management for platforms such as Instagram, Facebook, and TikTok. This system allows users to schedule posts, generate trend-based content, and analyze profile performance efficiently. Beyond that, in this new advanced version was included adaptive memory handling and a huge spectrum of commands to improve AI's responsiveness and understanding allowing to include efficient AI instruction management and task execution for almost any service that can connect trough API, said that the interface can be used as a versatile bridge between users and AI agents/models where AI's can act as Personal assistents, accounting, sales agent and a wide options. We push the boundaries of AI uses.
 
 ---
 
